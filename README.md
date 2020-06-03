@@ -9,6 +9,7 @@ Collection of stuff and configs I currently like in my war chest. Though install
   * https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Obsidian.itermcolors
   * https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Cobalt2.itermcolors
   * https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Darkside.itermcolors
+  * https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/master/Snazzy.itermcolors
 ### Alacritty
 * https://github.com/alacritty/alacritty
 * config:
