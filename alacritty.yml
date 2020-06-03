@@ -517,5 +517,3 @@ background_opacity: 0.97
 
   # Print all received window events.
   #print_events: false
-
-
