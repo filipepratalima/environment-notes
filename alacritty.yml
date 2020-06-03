@@ -60,22 +60,22 @@ scrolling:
 font:
   # Normal (roman) font face
   normal:
-    family: monospace
+    family: Fira Code #monospace
     style: Regular
 
   # Bold font face
   bold:
-    family: monospace
+    family: Fira Code #monospace
     style: Bold
 
   # Italic font face
   italic:
-    family: monospace
+    family: Fira Code #monospace
     style: Italic
 
   # Bold italic font face
   bold_italic:
-    family: monospace
+    family: Fira Code #monospace
     style: Bold Italic
 
   # Point size
@@ -517,3 +517,5 @@ background_opacity: 0.97
 
   # Print all received window events.
   #print_events: false
+
+
