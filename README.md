@@ -34,7 +34,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 
 ## Development
-### nvm - Node Version Manager
+### Node Version Manager
 * https://github.com/nvm-sh/nvm
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
