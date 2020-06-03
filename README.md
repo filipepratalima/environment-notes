@@ -25,6 +25,10 @@ brew cask install alacritty
 ```sh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+### Addons
+* fzf
+  * https://github.com/junegunn/fzf
+  * https://github.com/changyuheng/zsh-interactive-cd
 
 ## Package management
 ### Homebrew
