@@ -31,8 +31,6 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 * fzf
   * https://github.com/junegunn/fzf
   * https://github.com/changyuheng/zsh-interactive-cd
-* Font: Firacode
-  * https://github.com/tonsky/FiraCode
 
 ## Package management
 ### Homebrew
@@ -56,7 +54,11 @@ curl -fsSL https://deno.land/x/install/install.sh | sh
 brew install deno
 ```
 
-## Others
+### Font
+* Firacode (with ligature)
+  * https://github.com/tonsky/FiraCode
+
+## Others Stuff
 ### ZeroTier
 * https://www.zerotier.com/
 ```sh
