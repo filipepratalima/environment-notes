@@ -33,12 +33,20 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
-## Utils
+## Development
 ### nvm - Node Version Manager
 * https://github.com/nvm-sh/nvm
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 ```
+
+## Others
+### ZeroTier
+* https://www.zerotier.com/
+```sh
+curl -s https://install.zerotier.com | sudo bash
+```
+
 ### screenfetch
 * https://github.com/KittyKatt/screenFetch
 ```sh
