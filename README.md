@@ -11,6 +11,8 @@ Collection of stuff and configs I currently like in my war chest. Though install
   * https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Darkside.itermcolors
 ### Alacritty
 * https://github.com/alacritty/alacritty
+* config:
+  * https://raw.githubusercontent.com/alacritty/alacritty/master/alacritty.yml
 * Themes: https://github.com/eendroroy/alacritty-theme
   * https://github.com/eendroroy/alacritty-theme/blob/master/themes/gruvbox_dark.yaml
   * https://github.com/eendroroy/alacritty-theme/blob/master/themes/material_theme.yaml
