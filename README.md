@@ -54,11 +54,11 @@ curl -fsSL https://deno.land/x/install/install.sh | sh
 brew install deno
 ```
 
+## Others Stuff
 ### Font
 * Firacode (with ligature)
   * https://github.com/tonsky/FiraCode
 
-## Others Stuff
 ### ZeroTier
 * https://www.zerotier.com/
 ```sh
