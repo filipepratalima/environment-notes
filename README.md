@@ -31,6 +31,8 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 * fzf
   * https://github.com/junegunn/fzf
   * https://github.com/changyuheng/zsh-interactive-cd
+* Font: Firacode
+  * https://github.com/tonsky/FiraCode
 
 ## Package management
 ### Homebrew
