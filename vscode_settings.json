@@ -9,6 +9,7 @@
     "editor.formatOnSave": false,
     "editor.formatOnType": false,
     "editor.tabSize": 2,
+    "editor.acceptSuggestionOnCommitCharacter": false,
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Atom One Dark",
     "window.zoomLevel": 0,
